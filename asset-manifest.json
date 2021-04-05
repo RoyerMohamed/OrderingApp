@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/OrderingApp/static/css/main.afd7172b.chunk.css",
+    "main.js": "/OrderingApp/static/js/main.6c762306.chunk.js",
+    "main.js.map": "/OrderingApp/static/js/main.6c762306.chunk.js.map",
+    "runtime-main.js": "/OrderingApp/static/js/runtime-main.c535fa9a.js",
+    "runtime-main.js.map": "/OrderingApp/static/js/runtime-main.c535fa9a.js.map",
+    "static/js/2.b0d275cd.chunk.js": "/OrderingApp/static/js/2.b0d275cd.chunk.js",
+    "static/js/2.b0d275cd.chunk.js.map": "/OrderingApp/static/js/2.b0d275cd.chunk.js.map",
+    "index.html": "/OrderingApp/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/OrderingApp/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.b0d275cd.chunk.js.LICENSE.txt": "/OrderingApp/static/js/2.b0d275cd.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/OrderingApp/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/OrderingApp/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/OrderingApp/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/OrderingApp/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/OrderingApp/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/OrderingApp/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/OrderingApp/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/OrderingApp/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c535fa9a.js",
+    "static/js/2.b0d275cd.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.6c762306.chunk.js"
+  ]
+}
